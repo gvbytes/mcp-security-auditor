@@ -166,6 +166,13 @@ To run the automated test suite locally:
 pytest -v
 ```
 
+
+## How this was built
+
+Most of the code in this project was generated with an AI coding agent (Google Antigravity). I chose the rule set, reviewed the output and tested it against MCP servers.
+
+**Note on history:** The commit timestamps in this repository were set by hand when the project was uploaded, so they don't show when each change was actually made. The repository was first published on GitHub on 25 June 2026.
+
 ---
 
 ## License
